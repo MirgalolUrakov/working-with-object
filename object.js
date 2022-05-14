@@ -155,7 +155,7 @@ const testData = {
     console.log('GrandmasName', first_name )
   }
   //printGrandmasName(testData)
-  function printUsersId(obj){
+  function printUsersId(obj){MediaDevices
     console.log('UserId', obj.id)
   }
   //printUsersId(userInfo)
